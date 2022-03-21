@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "task": "A",
+      "status": false,
+      "id": 1
+    },
+    {
+      "task": "B",
+      "status": false,
+      "id": 2
+    },
+    {
+      "task": "C",
+      "status": false,
+      "id": 3
+    },
+    {
+      "task": "D",
+      "status": false,
+      "id": 4
+    },
+    {
+      "task": "E",
+      "status": false,
+      "id": 5
+    },
+    {
+      "task": "F",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
